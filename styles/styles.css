@@ -57,11 +57,11 @@ a {
   color: var(--accent-color);
 }
 
-/* Contacts */
 .current {
   color: var(--accent-color);
 }
 
+/* Contacts */
 .contact-header {
   font-weight: 500;
   font-size: 14px;
